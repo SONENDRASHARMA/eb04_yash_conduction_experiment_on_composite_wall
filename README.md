@@ -28,7 +28,7 @@ B.Tech (Mechanical Engineering), Heat and Mass Transfer Lab(KME551)
 
 Dr. A.P.J Abdul Kalam Technical University(AKTU)
 
-<b>Name of Developer | <b> Sonendra- - - - -
+<b>Name of Developer | <b> Sonendra
 :--|:--|
 <b> Institute | <b> KIET Group of Institutions,Ghaziabad
 <b> Email id|     <b> Sonendra.sharma@kiet.edu
@@ -36,7 +36,7 @@ Dr. A.P.J Abdul Kalam Technical University(AKTU)
 
 #### Mentor Details
 
-<b>Mentored by | Dr.Rupali Sharma - - - - - -
+<b>Mentored by | Dr.Rupali Sharma 
 :--|:--|
 <b> Institute | <b> MIET,Meerut
 <b> Email id|     <b> rupali.sharma@miect.ac.in
