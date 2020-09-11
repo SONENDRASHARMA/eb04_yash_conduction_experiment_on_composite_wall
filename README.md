@@ -36,7 +36,7 @@ Dr. A.P.J Abdul Kalam Technical University(AKTU)
 
 #### Mentor Details
 
-<b>Mentored by | Dr.Rupali Sharma 
+<b>Mentored by | Rupali Sharma 
 :--|:--|
 <b> Institute | <b> MIET,Meerut
 <b> Email id|     <b> rupali.sharma@miect.ac.in
@@ -46,7 +46,7 @@ Dr. A.P.J Abdul Kalam Technical University(AKTU)
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr.Rupali Sharma | Faculty | Department of Pharmaceutical Technology | MIET,Meerut | rupali.sharma@miect.ac.in
+1 | Rupali Sharma | Faculty | Department of Pharmaceutical Technology | MIET,Meerut | rupali.sharma@miect.ac.in
 2 | SONENDRA | Faculty | Mechanical Engineering | KIET Group of Institution,Ghaziabad |Sonendra.sharma@kiet.edu
 3 | YASH BHARADWAJ | Student | Mechanical Engineering | KIET Group of Institution,Ghaziabad |bharadwajyash001@gmail.com
 4 | AVIRAL SRIVASTAVA | Student | Information Technology | KIET Group of Institution,Ghaziabad |avisrivastava104@gmail.com
