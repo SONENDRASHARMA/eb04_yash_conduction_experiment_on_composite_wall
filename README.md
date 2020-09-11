@@ -14,7 +14,7 @@ Heat and Mass Transfer lab is introduced into fifth semester of course B.Tech in
 
 <h5> About the Experiment : </h5>
 
-The objective of experiment is to determine the the thermal conductivity of different materials( Mild steel, Asbestos and wood) of a composite wall for different heat inputs
+The objective of experiment is to determine the the thermal conductivity of different materials( Mild steel, Bakelite and wood) of a composite wall for different heat inputs
 
 <h5> Target Audience : </h5>
 
