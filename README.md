@@ -28,28 +28,29 @@ B.Tech (Mechanical Engineering), Heat and Mass Transfer Lab(KME551)
 
 Dr. A.P.J Abdul Kalam Technical University(AKTU)
 
-<b>Name of Developer | <b> Sonendra
+<b>Name of Developer | <b> Sonendra- - - - -
+:--|:--|
 <b> Institute | <b> KIET Group of Institutions,Ghaziabad
 <b> Email id|     <b> Sonendra.sharma@kiet.edu
 <b> Department | Mechanical Engineering
 
 #### Mentor Details
 
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
+<b>Mentored by | Dr.Rupali Sharma - - - - - -
 :--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
+<b> Institute | <b> MIET,Meerut
+<b> Email id|     <b> rupali.sharma@miect.ac.in
+<b> Department |Department of Pharmaceutical Technology
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-
-
+1 | Dr.Rupali Sharma | Faculty | Department of Pharmaceutical Technology | MIET,Meerut | rupali.sharma@miect.ac.in
+2 | SONENDRA | Faculty | Mechanical Engineering | KIET Group of Institution,Ghaziabad |Sonendra.sharma@kiet.edu
+3 | YASH BHARADWAJ | Student | Mechanical Engineering | KIET Group of Institution,Ghaziabad |bharadwajyash001@gmail.com
+4 | AVIRAL SRIVASTAVA | Student | Information Technology | KIET Group of Institution,Ghaziabad |avisrivastava104@gmail.com
+4 | AMIR IQBAL | Student | Information Technology | KIET Group of Institution,Ghaziabad |amireripmav786@gmail.com
+4 | YOGYA KHURANA | Student | Electronics and Communication | KIET Group of Institution,Ghaziabad |khurana.yogya05@gmail.com
 <br>
 for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
