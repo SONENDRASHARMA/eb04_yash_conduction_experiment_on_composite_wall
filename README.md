@@ -18,11 +18,11 @@ The objective of experiment is to determine the the thermal conductivity of diff
 
 <h5> Target Audience : </h5>
 
-UG  Students and faculties of Mechanical Engineering
+UG  Students of third year and faculties of Mechanical Engineering
 
 <h5> Course Alignment : </h5>
 
-B.Tech (Mechanical Engineering), Heat and Mass Transfer Lab(KME551)
+B.Tech (Mechanical Engineering)
 
 <h5> Universities Mapped : </h5>
 
@@ -46,11 +46,9 @@ Dr. A.P.J Abdul Kalam Technical University(AKTU)
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Rupali Sharma | Faculty | Department of Pharmaceutical Technology | MIET,Meerut | rupali.sharma@miect.ac.in
-2 | SONENDRA | Faculty | Mechanical Engineering | KIET Group of Institution,Ghaziabad |Sonendra.sharma@kiet.edu
-3 | YASH BHARADWAJ | Student | Mechanical Engineering | KIET Group of Institution,Ghaziabad |bharadwajyash001@gmail.com
-4 | AVIRAL SRIVASTAVA | Student | Information Technology | KIET Group of Institution,Ghaziabad |avisrivastava104@gmail.com
-4 | AMIR IQBAL | Student | Information Technology | KIET Group of Institution,Ghaziabad |amireripmav786@gmail.com
+1 | YASH BHARADWAJ | Student | Mechanical Engineering | KIET Group of Institution,Ghaziabad |bharadwajyash001@gmail.com
+2 | AVIRAL SRIVASTAVA | Student | Information Technology | KIET Group of Institution,Ghaziabad |avisrivastava104@gmail.com
+3 | AMIR IQBAL | Student | Information Technology | KIET Group of Institution,Ghaziabad |amireripmav786@gmail.com
 4 | YOGYA KHURANA | Student | Electronics and Communication | KIET Group of Institution,Ghaziabad |khurana.yogya05@gmail.com
 <br>
 for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
