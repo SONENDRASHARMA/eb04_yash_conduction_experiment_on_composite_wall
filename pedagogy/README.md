@@ -1,19 +1,15 @@
 ## Pedagogy (Round 1)
 <p align="center">
-
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
-<br>
-<br>
 <b> Experiment ABCDEF Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b>Mechanical Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Heat and Mass Transfer Lab
+<b> Experiment|     <b> 1. Conduction-Experiment on Composite Plane Wall
 
 
-<h4> [1. Focus Area](#LO)
+<h4> [1. Focus Area](#LO) 
 <h4> [2. Learning Objectives ](#LO)
 <h4> [3. Instructional Strategy](#IS)
 <h4> [4. Task & Assessment Questions](#AQ)
@@ -21,17 +17,18 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area : Heat and Mass Transfer (Thermal Engineering)
+By this experiment ,  we want students to understand the the heat transfer mechanism by conduction and basics of 1-D steady state heat conduction through composite plane wall and verify Fouriers Law of Conduction.
 
 #### 2. Learning Objectives and Cognitive Level
 
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to: <br>Next line from here <br> Next line here. | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Type as per the document](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| User will be able to: <br>Describe the concept of heat transfer by conduction in solids. | Understand | Desribe
+2.| User will be able to: <br>Understand 1-D  Steady State Heat Conduction. | Understand | Understand
+3.| User will be able to: <br>Verify Fourier Law of heat conduction. | Apply | Apply
+4.| User will be able to: <br>Understand the concept of Thermal Conductivity of materials. | Apply | Apply
 
 
 <br/>
@@ -44,13 +41,16 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="IS"></a>
 #### 3. Instructional Strategy
 ###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+###### Assessment Method: Assessment could be done on the basis of viva-voce
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<u> <b>Description: </b> </u>
 <br>
- Brief description as per handout
+The electric power is supplied to a circular electric heater. This electric heater will convert this electric power into thermal power(heat). On both sides of this electric heater, there exist two mild steel plates which are accompanied by plates of Bakelite and wood.The composite sections are pressed with the help of clamps. Thermocouples are placed at the center line of each junction faces to measure its temperature.Top and bottom surfaces are insulated so that heat can flow through thickness of plates only
 
 <br/>
+<u> <b>Simulatur: </b> </u>
+<br>
+First students have to switch on the power and set the appropriate voltage and current readings.When the simulator starts , heat starts conducting from heater through mild steel, wood plates towards the outer surface of wood plate and finally heat will be convected from outer surface of wood plate to atmospheric air. simulator will provide temperature value at all junctions ( heater -mild steel, Mild Steel-bakelite, Bakelite- Wood. Based on temperature gradient, finally simulator will provide thermal conductivity of Mild steel, Bakelite, Wood. 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
