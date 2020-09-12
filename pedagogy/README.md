@@ -65,8 +65,11 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | Type the question that will assess what student has learnt
-2.| LO's as described in section 1 <br> Next line here. | Type the task that <br> student will perform | 1 Question in detail <br> A. Option <br> B. Option <br> C. Option <br> <b> D. Option </b> <br> (mark correct option as bold text)
+1.| LO1,LO2,LO4 | Student will read instruction and theory manual. | Arrange Silver,Air, Aluminium and Water in increasing order of thermal conductivity <br> A.Aluminium,  Silver, Water, Air<br>B.Air, Water, Silver ,Aluminium<br>C.Water, Air, Silver, Aluminium
+
+2.| LO2,LO! | Student will supply power to Electric Heater and will wait for the steady state | A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. the heat flow is at <br>A.150W <br>B.180W <br>C.220W <br>D.250W
+2.| LO2,LO3,LO4 | Note down the Values of Thermal Conductivities of the materials | Metals are good conductor of heat because of <br>A.Free electrons are present <br>B.Their atoms are relatively Apart <br>C.Their atoms collide frequently <br>D.All of the above
+
 
 
 You can add more question. All questions may not be as MCQ
@@ -90,7 +93,7 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-2.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-3.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
-4.| Activity description <br> next line <br> next line | Click on the ‘Activity description <br> next line  '  | Describe the purpose in detail.
+1.| Activity description <br> Student will switch on the power button | Start the machine. Main switch will be converted into red. | The main purpose is to provide power supply to the apparatus.
+2.| Activity description <br>Student will set the appropriate value of voltage and current | Voltmeter and ammeter will show the values of voltage and ammeter by moving pointer  | The main purpose is to provide appropriate amount of heat to the workpiece (Q=VI)
+3.| Activity description <br>Student will Click on the Results and wait for the steady state and note down the temperature | ‘Temperature value will be displayed '  | The main purpose is to observe the temperature values at different points( heater -mild  steel junction, Mild Steel-bakelite junction, Bakelite- Wood junction , outer surface of wood)
+4.| Activity description <br> Student will note down the Thermal conductivities of all three materials | A bar chart showing the thermal conductivity of all materials will be displayed  | The main purpose is that student can verify and understand the concepts of I-D Steady state heat conduction and verify Fouriers law of heat conduction.
