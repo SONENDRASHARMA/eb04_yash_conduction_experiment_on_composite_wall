@@ -66,9 +66,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| LO1,LO2,LO4 | Student will read instruction and theory manual. | Arrange Silver,Air, Aluminium and Water in increasing order of thermal conductivity <br> A.Aluminium,  Silver, Water, Air<br>B.Air, Water, Silver ,Aluminium<br>C.Water, Air, Silver, Aluminium
-
 2.| LO2,LO! | Student will supply power to Electric Heater and will wait for the steady state | A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. the heat flow is at <br>A.150W <br>B.180W <br>C.220W <br>D.250W
-2.| LO2,LO3,LO4 | Note down the Values of Thermal Conductivities of the materials | Metals are good conductor of heat because of <br>A.Free electrons are present <br>B.Their atoms are relatively Apart <br>C.Their atoms collide frequently <br>D.All of the above
+3.| LO2,LO3,LO4 | Note down the Values of Thermal Conductivities of the materials | Metals are good conductor of heat because of <br>A.Free electrons are present <br>B.Their atoms are relatively Apart <br>C.Their atoms collide frequently <br>D.All of the above
 
 
 
