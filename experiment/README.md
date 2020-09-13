@@ -69,7 +69,7 @@ Q-1. A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conduct
 	150W<br>
 	180W<br>
 	220W<br>
-<b?	250W</b><br>
+<b>	250W</b><br>
 
 Q-2. A composite slab has two layers of different materials having internal conductivities k1and k2. If each layer has the same thickness then what is the equivalent thermal conductivity of the slab<br>
 	k1.k2/(k1+k2 )<br>      
