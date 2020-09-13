@@ -42,7 +42,7 @@ Step5: After experiment is over, set dimmerstat to zero , switch off the main su
 Q-1.Which of the following law of thermodynamics is responsible for heat transfer
 •	Zeroth Law
 •	First Law of thermodynamics
-<b>•	Second law of thermodynamics<b/>
+•<h1>	Second law of thermodynamics</h1>
 •	Third law of thermodynamics
 
 Q-2. Choose the correct statement about thermal conductivity
