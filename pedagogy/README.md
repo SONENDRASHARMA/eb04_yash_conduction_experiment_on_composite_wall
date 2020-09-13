@@ -1,6 +1,6 @@
 ## Pedagogy (Round 1)
 <p align="center">
-<b>   Conduction-Experiment on Composite Plane Wall Heat and Mass Transfer Lab  <a name="top"></a> <br>
+<b>   Conduction-Experiment on Composite Plane Wall_Heat and Mass Transfer Lab  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Mechanical Engineering
