@@ -1,4 +1,8 @@
-This folder has 
+<b>Discipline | <b>Mechanical Engineering
+:--|:--|
+<b> Lab | <b> Heat and Mass Transfer
+<b> Experiment|     <b> 1.Conduction-Experiment on Composite Plane Wall
+
 ### Aim
 To determine the thermal conductivity of different materials from different heat input values.
 ### Theory
