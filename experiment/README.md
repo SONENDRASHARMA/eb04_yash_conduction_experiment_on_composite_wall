@@ -45,50 +45,49 @@ Q-1.Which of the following law of thermodynamics is responsible for heat transfe
 •<b>	Second law of thermodynamics</b><br>
 •	Third law of thermodynamics<br>
 
-Q-2. Choose the correct statement about thermal conductivity
-•	It decreases with increase in temperature for metals
-•	It decreases with increase in temperature for gases
-•	It is not a function of temperature
-•	It increses with increase in temperature irrespective of material
+Q-2. Choose the correct statement about thermal conductivity<br>
+•<b>	It decreases with increase in temperature for metals</b><br>
+•	It decreases with increase in temperature for gases<br>
+•	It is not a function of temperature<br>
+•	It increses with increase in temperature irrespective of material<br>
 
-Q-3. Choose the correct statement about thermal conductivity
+Q-3. Choose the correct statement about thermal conductivity<br>
+•	Thermal conductivity of gases and liquids is generally higher than that of solids<br>
+•<b>	Thermal conductivity of gases decreases with increasing molecular weight</b><br>
+•	Thermal conductivity of non metals is higher than metals<br>
+•	Thermal conductivity of water is constant with temperature<br>
 
-•	Thermal conductivity of gases and liquids is generally higher than that of solids
-•	Thermal conductivity of gases decreases with increasing molecular weight
-•	Thermal conductivity of non metals is higher than metals
-•	Thermal conductivity of water is constant with temperature
-
-Q-4. Fouries law of heat conduction is valid for
-•	One dimensional heat transfer
-•	Two dimensional heat transfer
-•	Three dimensional heat transfer
-•	None of these
+Q-4. Fouries law of heat conduction is valid for<br>
+•<b>	One dimensional heat transfer</b><br>
+•	Two dimensional heat transfer<br>
+•	Three dimensional heat transfer<br>
+•	None of these<br>
 
 
 ### Post Test
-Q-1. A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. Examine, the heat flow is at
-	150W
-	180W
-	220W
-	250W
+Q-1. A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. Examine, the heat flow is at<br>
+	150W<br>
+	180W<br>
+	220W<br>
+<b?	250W</b><br>
 
-Q-2. A composite slab has two layers of different materials having internal conductivities k1and k2. If each layer has the same thickness then what is the equivalent thermal conductivity of the slab
-	k1.k2/(k1+k2 )      
-	k1.k2/2(k1+k2 )
-	2k1k2/(k1+k2 )     
-	 K1/(k1+k2 )
+Q-2. A composite slab has two layers of different materials having internal conductivities k1and k2. If each layer has the same thickness then what is the equivalent thermal conductivity of the slab<br>
+	k1.k2/(k1+k2 )<br>      
+	k1.k2/2(k1+k2 )<br>
+<b>	2k1k2/(k1+k2 )</b><br>     
+	 K1/(k1+k2 )<br>
 
-Q-3.An aluminium sheet of 10 mm thickness is brought into contact with an iron sheet of 20 mm thickness. The outer surface of aluminium is kept at 100oC. Where as the outer surface of iron is maintained at 0oC .If the thermal conductivity of aluminium and iron is 3:1 then interface temperature in oC is-
-	40       
-	60       
-	75.7      
-	85.7
+Q-3.An aluminium sheet of 10 mm thickness is brought into contact with an iron sheet of 20 mm thickness. The outer surface of aluminium is kept at 100oC. Where as the outer surface of iron is maintained at 0oC .If the thermal conductivity of aluminium and iron is 3:1 then interface temperature in oC is-<br>
+	40<br>       
+	60<br>       
+<b>	75.7</b><br>      
+	85.7<br>
 
-Q-4.If thermal conductivity of a material wall varies as Ko(1+ αT) then describe temperature at the center of the wall as compared to in case of constant thermal conductivity will be
-	More
-	Less
-	Same
-	Depends on other factors
+Q-4.If thermal conductivity of a material wall varies as Ko(1+ αT) then describe temperature at the center of the wall as compared to in case of constant thermal conductivity will be<br>
+<b>	More</b><br>
+	Less<br>
+	Same<br>
+	Depends on other factors<br>
 
 ### References
 	A textbook on Heat and Mass Transfer by Sukhatme, University Press
