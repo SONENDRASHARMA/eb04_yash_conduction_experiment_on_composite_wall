@@ -40,10 +40,10 @@ Step5: After experiment is over, set dimmerstat to zero , switch off the main su
 
 ### Pre Test
 Q-1.Which of the following law of thermodynamics is responsible for heat transfer
-•	Zeroth Law
-•	First Law of thermodynamics
-•	Second law of thermodynamics
-•	Third law of thermodynamics
+   •	Zeroth Law
+   •	First Law of thermodynamics
+<b>•	Second law of thermodynamics
+   •	Third law of thermodynamics
 
 Q-2. Choose the correct statement about thermal conductivity
 •	It decreases with increase in temperature for metals
@@ -63,6 +63,7 @@ Q-4. Fouries law of heat conduction is valid for
 •	Two dimensional heat transfer
 •	Three dimensional heat transfer
 •	None of these
+
 
 ### Post Test
 Q-1. A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. Examine, the heat flow is at
