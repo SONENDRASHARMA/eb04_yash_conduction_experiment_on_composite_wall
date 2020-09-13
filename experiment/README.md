@@ -40,10 +40,10 @@ Step5: After experiment is over, set dimmerstat to zero , switch off the main su
 
 ### Pre Test
 Q-1.Which of the following law of thermodynamics is responsible for heat transfer
-   •	Zeroth Law
-   •	First Law of thermodynamics
+•	Zeroth Law
+•	First Law of thermodynamics
 <b>•	Second law of thermodynamics
-   •	Third law of thermodynamics
+•	Third law of thermodynamics
 
 Q-2. Choose the correct statement about thermal conductivity
 •	It decreases with increase in temperature for metals
