@@ -39,11 +39,11 @@ Step4: Change the voltage to 35 V, 40 V, 45 V, 50 V in steps and repeat steps 2 
 Step5: After experiment is over, set dimmerstat to zero , switch off the main supply.
 
 ### Pre Test
-Q-1.Which of the following law of thermodynamics is responsible for heat transfer
-•	Zeroth Law
-•	First Law of thermodynamics
-•<b>	Second law of thermodynamics</b>
-•	Third law of thermodynamics
+Q-1.Which of the following law of thermodynamics is responsible for heat transfer<br>
+•	Zeroth Law<br>
+•	First Law of thermodynamics<br>
+•<b>	Second law of thermodynamics</b><br>
+•	Third law of thermodynamics<br>
 
 Q-2. Choose the correct statement about thermal conductivity
 •	It decreases with increase in temperature for metals
