@@ -82,7 +82,7 @@ Thermal Conductivity of wood is given by
 K3 = Q . L/ A . (T3-T4)
 
 ### 3. Flowchart 4
-<img src=ahref"http://i.xp.io/2N069Eq.jpg"><br>
+<img src="http://i.xp.io/2N069Eq.jpg"><br>
 
 ### 5. Storyboard :
 Step-1: Switch on the power to electric heater and set the voltage and current values.Wait for steady state condition.   
