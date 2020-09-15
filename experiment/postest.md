@@ -1,6 +1,6 @@
 ## Post test
 <br>
-Q-1. A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. Examine, the heat flow is at
+Q-1. A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. Examine, the heat flow is at<br>
 <b>a. 150W<br></b>
 b. 180W<br>
 c. 220W<br>
