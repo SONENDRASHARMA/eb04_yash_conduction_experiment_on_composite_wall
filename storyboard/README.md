@@ -81,7 +81,7 @@ K2 = Q .L / A ( T2-T3)
 Thermal Conductivity of wood is given by
 K3 = Q . L/ A . (T3-T4)
 
-### 3. Flowchart 4
+### 3. Flowchart 
 <img src="http://i.xp.io/2N069Eq.jpg"><br>
 
 ### 5. Storyboard :
