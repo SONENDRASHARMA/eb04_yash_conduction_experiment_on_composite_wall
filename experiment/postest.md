@@ -8,14 +8,14 @@ d. 250W<br><br>
 
 
 Q-2. A composite slab has two layers of different materials having internal conductivities k1and k2. If each layer has the same thickness then what is the equivalent thermal conductivity of the slab<br>
-a.	k1.k2/(k1+k2 )<br>      
-b.	k1.k2/2(k1+k2 )<br>
-c.<b>	2k1k2/(k1+k2 )</b><br>     
+a.	k1.k2/(k1+k2)<br>      
+b.	k1.k2/2(k1+k2)<br>
+c.<b>	2k1k2/(k1+k2)</b><br>     
 d.	 K1/(k1+k2 )<br>
 
 Q-3.An aluminium sheet of 10 mm thickness is brought into contact with an iron sheet of 20 mm thickness. The outer surface of aluminium is kept at 100oC. Where as the outer surface of iron is maintained at 0oC .If the thermal conductivity of aluminium and iron is 3:1 then interface temperature in oC is-<br>
 a.40<br>       
-b.	60<br>       
+b.60<br>       
 c.<b>	75.7</b><br>      
 d.	85.7<br>
 
