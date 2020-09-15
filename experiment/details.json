@@ -2,43 +2,43 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
+			"Experiment": "Conduction-Experiment on Composite Plane Wall",     
+			"Lab": "Heat and Mass Transfer",               
+			"Discipline": "Mechanical Engineering",				 
 			"Technology": ""         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
+      "Developer": "Sonendra",         
+      "Institute": "KIET Group of Institutions,Ghaziabad",         
       "InstituteAcronym": ""   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
+			"Contributer": "YASH BHARADWAJ",             
+      "Institute": "KIET Group of Institution,Ghaziabad",               
 			"InstituteAcronym": ""         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
+			"Contributer": "AVIRAL SRIVASTAVA",              
+      "Institute": "KIET Group of Institution,Ghaziabad",               
 			"InstituteAcronym": ""         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
+			"Contributer": "AMIR IQBAL",             
+      "Institute": "KIET Group of Institution,Ghaziabad",               
 			"InstituteAcronym": ""         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
+			"Contributer": "YOGYA KHURANA",              
+      "Institute": "KIET Group of Institution,Ghaziabad",               
 			"InstituteAcronym": ""         
        }
    ]
