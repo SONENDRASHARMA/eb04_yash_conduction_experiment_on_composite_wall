@@ -1,55 +1,93 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
+Experiment 1: Conduction-Experiment on Composite plane wall
 
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+The electric power is supplied to a circular electric heater. This electric heater will convert this electric power into thermal power(heat). On both sides of this electric heater, there exist two mild steel plates which are accompanied by plates of Bakelite and wood.The composite sections are pressed with the help of clamps. Thermocouples are placed at the center line of each junction faces to measure its temperature.Top and bottom surfaces are insulated so that heat can flow through thickness of plates only
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+First students have to switch on the power and set the appropriate voltage and current readings.When the simulator starts , heat starts conducting from heater through mild steel, wood plates towards the outer surface of wood plate and finally heat will be convected from outer surface of wood plate to atmospheric air. Simulator will provide temperature value at all junctions ( heater -mild steel, Mild Steel-Bakelite, Bakelite- Wood. Based on temperature gradient, finally simulator will provide thermal conductivity of Mild steel, Bakelite, Wood. 
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+In the simulator user will be able to see the virtual prototype of experimental set up resembling the actual experimental set up that is present in real time labs.
+Simulator Set up Contains 
+	Control panel which houses voltmeter, ammeter, temperature indicator , dimmer-stat ,mains switch. When user switches on the mains ,red light will diaplay to inform the user electric power is supplied to set up.
+	A box in which 1 circular heater in center .Heater is surrounded by Circular mild steel plate on both sides accompanies by bakelite and wood plates of circular shapes on both sides. Clamps are applied to hold these plates together. Upper and lower sides are provided with insulation to ensure I -d flow. Wires to connect heater with power supply.
+	Book icon on top of right side which contains instructions to run the simulator.
+	Sand-witch icon on top of left side to set the values of input voltage and current.When user provides the input voltage and current values, user will be able to see the movement of pointer in voltmeter and ammeter to input value. This will give him feeling of real life apparatus.
+	A box on left side which shows all the formulaes used in simulator to calculate the thermal conductivities of materials. This will recall the basic concepts of 1-D Steady state conduction and Fouriers law of conduction.
+Diameter of M.S plate =305mm                                   
+Thickness of M.S plate=L1= 10.2mm                                  
+Diameter of Bakelite plate ==305mm                            
+Thickness of Bakelite plate =L2= 9.3mm                          
+Diameter of Wooden plate =305mm                        
+Thickness of Wooden plate=L3= 10.8 mm 
+<img src=ahref"http://i.xp.io/2KYJF3t.png"><br>
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+1.	By this experiment user will be able to recall basics of heat transfer.
+2.	By this experiment user will be able to recall basics of thermal conductivity of material.
+3.	User will be able to understand the relation between temperature gradient and heat flow rate.
+4.	User will be able to recall the basic concepts of 1- D Steady state conduction and verify Fouriers law of Conduction.  
 
 #### 2.3 Set the Pathway Activities:
-
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+1.	In the experimental set up, there is electric power supply. User will start the electric supply by pressing start button
+2.	User can change the value of voltmeter by using dimmerstat
+3.	For a particular power supply , readings of temperature indicators can be noted down.
+4.	For a temperature 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
+<b>Question 1</b>: A furnace is providing with an insulating refractory lining. The overall thermal conductivity of the material is 0.03 W/mK. The thickness of the lining is 100 mm. The inner and the outer temperature are 250 degree Celsius and 50 degree Celsius, respectively. The heat loss to the surrounding will be.
+(a)	30 J/m2/s                                 
+(b)	(b) 60 J/m2/s
+(c)	60 J/s                                      
+(d)	30 J/s 
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+<b>Question 2</b>: Heat is conducted through a 10 cm thick wall at the rate of 30 W/m2 when the temperature difference across the wall is 10 degree Celsius. What is the thermal conductivity of the wall?
+(a)	0.03 W/mK                         
+(b) 0.3 W/mK
+(c) 3.0 W/mK                          
+(d) 30.0 W/mK
+
+<b>Question-3</b> A wall thickness 0.6 m has a normal area 1.5 m2 and is made up of material of thermal conductivity 0.4 W/mK. The temperature on the  two sides are 800 degree Celsius and 100 degree Celsius. What is the thermal resistance of the wall?
+(a)	 1 W/K                                          
+(b)	 1.8 W/K
+(c ) 1K/W                                            
+(d) 1.8W/K 
+<b>Question-4</b> A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. the heat flow is at
+	150W
+	180W
+	220W
+	250W
+
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+If user doesn't allow 10 minutes heating before measuring temperature to develop then steady state will not prevail and Fouriers law will not be applicable to the set up.
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+User will take approximate 2-3 minutes for understanding the procedure. Then for generating data by the help of simulator will take 2-3 minutes. In this along with generation of data student will be able to verify the basics of 1-D steady state heat conduction and  Fouriers law of conduction.After onwards for calculating result will take 6 minutes. Hence total time taken for doing experiment will be approximately 11 minutes.
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+Fouriers law of heat conduction for the wall can be expressed as:
+Q= -K. A .dT/dx 
 
+Thermal conductivity of Mild steel is given by
+ 
+Thermal Conductivity of Bakelite is given by-
+K2 = Q .L / A ( T2-T3)
+
+Thermal Conductivity of wood is given by
+K3 = Q . L/ A . (T3-T4)
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
-link to flow chart Here : Store in the  /flowchart folder within Round2 folder in your repo
-<br>
-(guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
-
-### 4. Mindmap:
-<img src="mindmap/mindmap.png"/>
- Link to mindmap here : Store the mindmap in both .mm & .png extension in the  /mindmap folder and include link of only .pdf verison here
- <br>
- (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
+<img src=ahref"http://i.xp.io/2KYJF3t.png"><br>
 
 ### 5. Storyboard :
-Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
-Link to storybaord (.gif file ) here :
-(guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
+Step-1: Switch on the power to electric heater and set the voltage and current values.Wait for steady state condition.   
+Step-2: Note down the temperature readings at different points( heater -mild  steel junction, Mild Steel-Bakelite junction, Bakelite- Wood junction , outer surface of wood)
+Step3: Simulator will calculate the Thermal conductivities of all three materials based on Fourier s Law of Conduction and concepts of 1-D Steady State heat Conduction.
+Step-4: Change the voltage to 35 V, 40 V, 45 V, 50 V in steps and repeat steps 2 ans step 3 
+Step-5: After experiment is over, set dimmerstat to zero , switch off the main supply.
+
