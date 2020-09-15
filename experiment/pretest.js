@@ -90,27 +90,57 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Which of the following law of thermodynamics is responsible for heat transfer",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        
+
+        a: " Zeroth Law",                  ///// Write the option 1 inside double quotes
+        b: "First Law of thermodynamics",                  ///// Write the option 2 inside double quotes
+        c: "Second law of thermodynamics",                  ///// Write the option 3 inside double quotes
+        d: "Third law of thermodynamics"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "Choose the correct statement about thermal conductivity",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        
+    
+        a: "It decreases with increase in temperature for metals",                  ///// Write the option 1 inside double quotes
+        b: "It decreases with increase in temperature for gases",                  ///// Write the option 2 inside double quotes
+        c: "It is not a function of temperature",                  ///// Write the option 3 inside double quotes
+        d: "It increses with increase in temperature irrespective of material"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+    				
+    
+    {
+     question: "Choose the correct statement about thermal conductivity",  ///// Write the question inside double quotes
+      answers: {
+  
+        a: "Thermal conductivity of gases and liquids is generally higher than that of solids",                  ///// Write the option 1 inside double quotes
+        b: "Thermal conductivity of gases decreases with increasing molecular weight",                  ///// Write the option 2 inside double quotes
+        c: "Thermal conductivity of non metals is higher than metals",                  ///// Write the option 3 inside double quotes
+        d: "Thermal conductivity of water is constant with temperature"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
+    },  
+    
+    
+    {
+     question: "Fouries law of heat conduction is valid for",  ///// Write the question inside double quotes
+      answers: {
+        
+   
+        a: "One dimensional heat transfer",                  ///// Write the option 1 inside double quotes
+        b: "Two dimensional heat transfer",                  ///// Write the option 2 inside double quotes
+        c: "Three dimensional heat transfer",                  ///// Write the option 3 inside double quotes
+        d: "None of these"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },  ///// this line
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
