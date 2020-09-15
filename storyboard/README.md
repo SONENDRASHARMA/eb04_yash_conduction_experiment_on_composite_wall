@@ -24,7 +24,7 @@ Diameter of Bakelite plate ==305mm
 Thickness of Bakelite plate =L2= 9.3mm                          
 Diameter of Wooden plate =305mm                        
 Thickness of Wooden plate=L3= 10.8 mm 
-<img src=ahref"http://i.xp.io/2KYJF3t.png"><br>
+<img src="http://i.xp.io/2KYJF3t.png"><br>
 
 #### 2.2 Set User Objectives & Goals:
 1.	By this experiment user will be able to recall basics of heat transfer.
