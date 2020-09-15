@@ -90,28 +90,41 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. Examine, the heat flow is at",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+    
+        a: "150W",                  ///// Write the option 1 inside double quotes
+        b: "180W",                  ///// Write the option 2 inside double quotes
+        c: "220W",                  ///// Write the option 3 inside double quotes
+        d: "250W"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "A composite slab has two layers of different materials having internal conductivities k1and k2. If each layer has the same thickness then what is the equivalent thermal conductivity of the slab",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+       
+        a: "k1.k2/(k1+k2 )",                  ///// Write the option 1 inside double quotes
+        b: "k1.k2/2(k1+k2 )",                  ///// Write the option 2 inside double quotes
+        c: "2k1k2/(k1+k2 )",                  ///// Write the option 3 inside double quotes
+        d: "K1/(k1+k2 )"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
-
+  {
+      question: "If thermal conductivity of a material wall varies as Ko(1+ αT) then describe temperature at the center of the wall as compared to in case of constant thermal conductivity will be	More</b><br>
+",  ///// Write the question inside double quotes
+      answers: {
+        a: "More",                  ///// Write the option 1 inside double quotes
+        b: "Less",                  ///// Write the option 2 inside double quotes
+        c: "Same",                  ///// Write the option 3 inside double quotes
+        d: "Depends on other factors"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+    		
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
