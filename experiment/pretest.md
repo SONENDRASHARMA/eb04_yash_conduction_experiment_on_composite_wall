@@ -1,32 +1,26 @@
 ## <b> Pre-test
 #### Please attempt the following questions
 
-1) Interference occurs due to _______ of the light.<br>
-<b>a) Wave nature<br></b>
-b) particle nature<br>
-c) both a and b<br>
-d) none of these<br>
+Q-1.Which of the following law of thermodynamics is responsible for heat transfer<br>
+•	Zeroth Law<br>
+•	First Law of thermodynamics<br>
+•<b>	Second law of thermodynamics</b><br>
+•	Third law of thermodynamics<br>
 
-2) Superposition of crest over crest results in __________ .<br>
-a) Destructive interference<br>
-<b> b) Constructive interference<br></b>
-c) Diffraction<br>
-d) Polarization<br>
+Q-2. Choose the correct statement about thermal conductivity<br>
+•<b>	It decreases with increase in temperature for metals</b><br>
+•	It decreases with increase in temperature for gases<br>
+•	It is not a function of temperature<br>
+•	It increses with increase in temperature irrespective of material<br>
 
-3) If two waves with amplitude (y1) and (y2) travelling in the same medium reach at a point in the medium, then the resultant displacement at that point in the medium, will be given by __________ .<br>
-a) y1 -y2<br>
-<b>b) y1 + y2<br></b>
-c) y1 / y2<br>
-d) y1 * y2<br>
+Q-3. Choose the correct statement about thermal conductivity<br>
+•	Thermal conductivity of gases and liquids is generally higher than that of solids<br>
+•<b>	Thermal conductivity of gases decreases with increasing molecular weight</b><br>
+•	Thermal conductivity of non metals is higher than metals<br>
+•	Thermal conductivity of water is constant with temperature<br>
 
-4) The condition for destructive interference is: the path difference should be equal to __________. <br>
-<b>a) Odd integral multiple of wavelength<br></b>
-b) Integral multiple of wavelength<br>
-c) Odd integral multiple of half wavelength<br>
-d) Integral multiple of half wavelength<br>
-
-5) In Newton's ring experiment, the diameter of the dark rings is proportional to __________ .<br>
-a) Odd natural numbers<br>
-b) Even natural numbers<br>
-c) Complex numbers<br>
-<b>d) square root of natural numbers<br></b>
+Q-4. Fouries law of heat conduction is valid for<br>
+•<b>	One dimensional heat transfer</b><br>
+•	Two dimensional heat transfer<br>
+•	Three dimensional heat transfer<br>
+•	None of these<br>
