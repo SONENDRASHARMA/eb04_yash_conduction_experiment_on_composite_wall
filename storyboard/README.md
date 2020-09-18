@@ -43,30 +43,30 @@ First students have to switch on the power and set the appropriate voltage and c
 6. From the bar showing Fourires law of conduction, user will Calculate the thermal conductivities of mild steel, bakelite, wood and verify Fouriers law of conduction
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
-<b>Question 1</b>: A furnace is providing with an insulating refractory lining. The overall thermal conductivity of the material is 0.03 W/mK. The thickness of the lining is 100 mm. The inner and the outer temperature are 250 degree Celsius and 50 degree Celsius, respectively. The heat loss to the surrounding will be.
+<b>Question 1</b>: A furnace is providing with an insulating refractory lining. The overall thermal conductivity of the material is 0.03 W/mK. The thickness of the lining is 100 mm. The inner and the outer temperature are 250 degree Celsius and 50 degree Celsius, respectively. The heat loss to the surrounding will be.<br>
 (a)	   30 J/m2/s<br>                                 
 (b)    60 J/m2/s<br>
 (c)	<b>60 J/s</b><br>                                      
 (d)	   30 J/s<br> 
 
-<b>Question 2</b>: Heat is conducted through a 10 cm thick wall at the rate of 30 W/m2 when the temperature difference across the wall is 10 degree Celsius. What is the thermal conductivity of the wall?
+<b>Question 2</b>: Heat is conducted through a 10 cm thick wall at the rate of 30 W/m2 when the temperature difference across the wall is 10 degree Celsius. What is the thermal conductivity of the wall?<br>
 (a)	   0.03 W/mK<br>                         
 (b) <b>0.3 W/mK</b><br>
 (c)    3.0 W/mK<br>                          
 (d)    30.0 W/mK<br>
 
-<b>Question-3</b> A wall thickness 0.6 m has a normal area 1.5 m2 and is made up of material of thermal conductivity 0.4 W/mK. The temperature on the  two sides are 800 degree Celsius and 100 degree Celsius. What is the thermal resistance of the wall?
+<b>Question-3</b> A wall thickness 0.6 m has a normal area 1.5 m2 and is made up of material of thermal conductivity 0.4 W/mK. The temperature on the  two sides are 800 degree Celsius and 100 degree Celsius. What is the thermal resistance of the wall?<br>
 (a)	   1 W/K<br>                                          
 (b)	   1.8 W/K<br>
 (c) <b>1K/W</b><br>                                            
 (d)    1.8W/K <br>
-<b>Question-4</b> A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. the heat flow is at
+<b>Question-4</b> A plane wall is 20 cm thick with an area of 1 m2. and has a thermal conductivity of 0.5W/mK.A temperature difference of 100oC is imposed across it. the heat flow is at<br>
 	   150W<br>
 	   180W<br>
 	   220W<br>
 	<b>250W</b><br>
 
-<b>Question-5</b> Which of the following law of thermodynamics is responsible for heat transfer
+<b>Question-5</b> Which of the following law of thermodynamics is responsible for heat transfer<br>
 •	   Zeroth Law<br>
 •	   First Law of thermodynamics<br>
 •	<b>Second law of thermodynamics</b><br>
@@ -95,15 +95,15 @@ K3 = Q . L/ A . (T3-T4)
 
 ### 5. Storyboard :
 	First of all we designed Composite wall apparatus on CATIA
-<img src=""><br>
+<img src="https://i.ibb.co/QDZmd4p/Whats-App-Image-2020-09-18-at-2-28-51-PM-6.jpg"><br>
 	Secondly we designed control panel which consists Voltmeter, Ammeter ,temperature Indicator and main switch
-<img src=""><br>
+<img src="https://i.ibb.co/ZczVcSL/Whats-App-Image-2020-09-18-at-2-28-51-PM-4.jpg"><br>
 	Thirdly we designed tab to enter input voltmeter and current values
-<img src=""><br>
+<img src="https://i.ibb.co/jVH0Mtx/Whats-App-Image-2020-09-18-at-2-28-51-PM-3.jpg"><br>
 	Then we designed a box which contains all the formulaes so that user can recall the basics of Fouriers law of conduction.
-<img src=""><br> 
+<img src="https://i.ibb.co/Mk94WGF/Whats-App-Image-2020-09-18-at-2-28-51-PM-2.jpg"><br> 
 	Then We designed the instruction tab
-<img src=""><br>
+<img src="https://i.ibb.co/HTd0B2T/Whats-App-Image-2020-09-18-at-2-28-51-PM-1.jpg"><br>
 	Finally We assembled all element to create the Simulator
-<img src=""><br>
+<img src="https://i.ibb.co/RvbzzCH/Whats-App-Image-2020-09-18-at-2-28-51-PM.jpg"><br>
 
