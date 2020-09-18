@@ -103,6 +103,7 @@ K3 = Q . L/ A . (T3-T4)
 	Then we designed a box which contains all the formulaes so that user can recall the basics of Fouriers law of conduction.
 <img src="https://i.ibb.co/Mk94WGF/Whats-App-Image-2020-09-18-at-2-28-51-PM-2.jpg"><br> 
 	Then We designed the instruction tab
+
 <img src="https://i.ibb.co/HTd0B2T/Whats-App-Image-2020-09-18-at-2-28-51-PM-1.jpg"><br>
 	Finally We assembled all element to create the Simulator
 <img src="https://i.ibb.co/RvbzzCH/Whats-App-Image-2020-09-18-at-2-28-51-PM.jpg"><br>
