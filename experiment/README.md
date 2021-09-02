@@ -32,11 +32,11 @@ Apparatus Required:
 ### Experimental Set-up
 The electric power is supplied to a circular electric heater. This electric heater will convert this electric power into thermal power(heat). On both sides of this electric heater, there exist two mild steel plates which are accompanied by plates of Bakelite and wood.The composite sections are pressed with the help of clamps. Thermocouples are placed at the center line of each junction faces to measure its temperature.Top and bottom surfaces are insulated so that heat can flow through thickness of plates only.
 ### Procedure
-Step1: Switch on the power to electric heater and set the voltage and current values.Wait for steady state condition.   
-Step2: Note down the temperature readings at different points( heater -mild  steel junction, Mild Steel-Bakelite junction, Bakelite- Wood junction , outer surface of wood)
-Step3: Simulator will calculate the Thermal conductivities of all three materials based on Fourier s Law of Conduction and concepts of 1-D Steady State heat Conduction.
-Step4: Change the voltage to 35 V, 40 V, 45 V, 50 V in steps and repeat steps 2 ans step 3 
-Step5: After experiment is over, set dimmerstat to zero , switch off the main supply.
+Step1: Switch on the power to electric heater and set the voltage and current values.Wait for steady state condition.   <br>
+Step2: Note down the temperature readings at different points( heater -mild  steel junction, Mild Steel-Bakelite junction, Bakelite- Wood junction , outer surface of wood)<br>
+Step3: Simulator will calculate the Thermal conductivities of all three materials based on Fourier s Law of Conduction and concepts of 1-D Steady State heat Conduction.<br>
+Step4: Change the voltage to 35 V, 40 V, 45 V, 50 V in steps and repeat steps 2 ans step 3 <br>
+Step5: After experiment is over, set dimmerstat to zero , switch off the main supply.<br>
 
 ### Pre Test
 Q-1.Which of the following law of thermodynamics is responsible for heat transfer<br>
