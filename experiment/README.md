@@ -19,7 +19,7 @@ Where Rwall = L
            KA
 When heat conduction take place through two or more solid materials of different thermal conductivities the temperature drop across each materials depends on the resistance offered to the heat conduction and the thermal conductivity of each material.
  
-       <b> Apparatus Required:<br>
+### Apparatus Required:<br>
 	1 Circular Electric heater<br>
 	2 circular plates of Mild Steel<br>
 	2 circular plates of Bakelite<br>
