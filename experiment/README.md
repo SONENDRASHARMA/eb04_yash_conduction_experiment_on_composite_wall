@@ -20,14 +20,14 @@ Where Rwall = L
 When heat conduction take place through two or more solid materials of different thermal conductivities the temperature drop across each materials depends on the resistance offered to the heat conduction and the thermal conductivity of each material.
  
 Apparatus Required:
-	1 Circular Electric heater
-	2 circular plates of Mild Steel
-	2 circular plates of Bakelite
-	2 Circular plates of Wood
-	Clamps and insulation 
-	Voltmeter,Ammeter
-	4 temperature sensors
-	Temperature Indicator
+	1 Circular Electric heater<br>
+	2 circular plates of Mild Steel<br>
+	2 circular plates of Bakelite<br>
+	2 Circular plates of Wood<br>
+	Clamps and insulation <br>
+	Voltmeter,Ammeter<br>
+	4 temperature sensors<br>
+	Temperature Indicator<br>
 
 ### Experimental Set-up
 The electric power is supplied to a circular electric heater. This electric heater will convert this electric power into thermal power(heat). On both sides of this electric heater, there exist two mild steel plates which are accompanied by plates of Bakelite and wood.The composite sections are pressed with the help of clamps. Thermocouples are placed at the center line of each junction faces to measure its temperature.Top and bottom surfaces are insulated so that heat can flow through thickness of plates only.
